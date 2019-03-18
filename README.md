@@ -1,3 +1,8 @@
+This is a copy of the repo from Rocker:
+https://github.com/rocker-org/geospatial
+
+
+
 # rocker/geospatial
 
 [![DOI](https://zenodo.org/badge/85984414.svg)](https://zenodo.org/badge/latestdoi/85984414)
