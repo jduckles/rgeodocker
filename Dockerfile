@@ -52,5 +52,6 @@ RUN apt-get update \
     spdep \
     geoR \
     geosphere \
+    cartography \
     ## from bioconductor
     && R -e "BiocManager::install('rhdf5')"
